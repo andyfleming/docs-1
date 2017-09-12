@@ -24,3 +24,5 @@ exclude:
 gems:
 - jekyll-asciidoc
 - jekyll-redirect-from
+host: 0.0.0.0
+port: 8080
